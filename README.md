@@ -1,1 +1,1 @@
-This repository contains the code for the implementations used in "Subtyping patients with chronic disease using longitudinal BMI patterns" paper from the Journal of Biomedical and Health Informatics.
+This repository contains the code for the implementations used in "Subtyping patients with chronic disease using longitudinal BMI patterns" paper from the Journal of Biomedical and Health Informatics. Also, it includes the supplementary materials for the results and findings mentioned in the manuscript.
